@@ -1,8 +1,8 @@
 #let data = (
   // Project code
-  // Example: "01-01"
+  // Example: "01.01"
   // You can find it here: https://ru-ikt.ru/reestrpo
-  code: "01-01",
+  code: "01.01",
 
   // Project name
   // Example: "Учимся закупать ТОН"

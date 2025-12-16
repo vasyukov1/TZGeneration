@@ -1,6 +1,6 @@
 #let cfg(data) = (
     project: (
-        code: [RU.17701729.#data.code ТЗ 01-1],
+        code: [RU.17701729.#data.code\-01 ТЗ 01-1],
         name: [
           #text(upper(data.project_name)).
         ],
